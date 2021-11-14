@@ -1,6 +1,6 @@
-# communityleads.net
+# communitylovers.com
 
-Homepage of the Community Leads Network
+Homepage of the Community Lovers
 
 ## License
 
